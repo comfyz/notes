@@ -1,5 +1,13 @@
 # `任何发展都不是一蹴而就的`
 
+- [计算机原理](/src/notes/01.计算机原理.MD)
+- [计算机网络](/src/notes/02.计算机网络.MD)
+- [TCP协议剖析](/src/notes/03.TCP协议.MD)
+- [一次HTTP请求](/src/notes/04.一个完整的HTTP请求.MD)
+- [mysql详解](/src/notes/05.mysql剖析.MD)
+
+
+
 - 知识点总结
 ```
 负载均衡:   nginx/网关
