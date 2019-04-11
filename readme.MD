@@ -1,15 +1,6 @@
 # **任何发展都不是一蹴而就的**
 
-1. [计算机原理](/src/notes/01.计算机原理.MD)
-2. [计算机网络](/src/notes/02.计算机网络.MD)
-3. [TCP协议剖析](/src/notes/03.TCP协议.MD)
-4. [一次HTTP请求](/src/notes/04.一个完整的HTTP请求.MD)
-5. [mysql详解](/src/notes/05.mysql剖析.MD)
-6. [分库分表方案](/src/notes/06.分库分表方案.MD)
-7. [spring全家桶分析及对比](/src/notes/07.spring全家桶分析及对比.MD)
-8. [解决数据一致性方案](/src/notes/08.解决数据一致性方案.MD)
-
-
+### [这是你猜不到的，真正的目录](/src/notes)
 
 ## 以下是知识点总结
 ```
